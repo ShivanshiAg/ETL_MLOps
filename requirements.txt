@@ -6,5 +6,6 @@ certifi
 scikit-learn
 matplotlib
 seaborn
+pymongo[srv]==3.6
 
 # -e .  
